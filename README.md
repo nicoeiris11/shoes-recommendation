@@ -15,6 +15,10 @@ To run this demo you need to install:
 3) Move it to the root dir of this repo
 4) Rename folder to `data`
 
+## Feature vector extractor
+If you want to fine tune the Resnet-18 model checkpoint you can use `Resnet_Finetuning.ipynb` notebook.
+Remember that `Technical_Implementation.ipynb` uses this checkpoint file.
+
 ## Dependencies
 
 1) From the root dir of this repo execute `poetry shell`. (this will activate the new virtual environment)
